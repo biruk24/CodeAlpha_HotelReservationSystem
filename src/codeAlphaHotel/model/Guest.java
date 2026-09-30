@@ -6,7 +6,7 @@ public class Guest {
     private final String phone;
 
 
-    Guest(String id, String name, String phone){
+   public Guest(String id, String name, String phone){
         this.id = id;
         this.name = name;
         this.phone = phone;
